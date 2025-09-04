@@ -14,8 +14,6 @@ Elle permet d’afficher des chaînes de caractères formatées en gérant diff�
   - `%x` / `%X` : hexadécimal  
   - `%%` : pourcentage
 
-- Gestion des flags et largeur minimale (espaces et zéros)  
-- Conversion et affichage précis pour chaque type  
 - La fonction retourne le nombre de caractères affichés, comme `printf`.
 
 ## Usage
